@@ -1,7 +1,7 @@
 # PNGizer
 一个能使图片背景半透明化的小工具
 
-下载： [Release](https://github.com/huanghaozi/PNGizer/releases "Release")  [蓝奏云](https://huanghaozi.lanzous.com/b015o09ch "蓝奏云")
+下载： [Release](https://github.com/huanghaozi/PNGizer/releases "Release") 
 
 # 概述
 之前我写过一篇[“使用Pillow对图片进行滤色”](https://huanghaozi.cn/index.php/2020/04/05/colorfilter/ "“使用Pillow对图片进行滤色”")的文章，不过很多朋友没有Python，而且Python搭环境可能也比较复杂，因此我就用C++将其算法重制成了一个软件...
